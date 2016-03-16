@@ -1,9 +1,7 @@
 # EntJavaGroupProject
 
-# Brendan, Mike, and Felicia's Group Project
-
 ###Problem Statement
-
+We are creating a web service, which will send a daily email containing a GIF to subscribed users. 
 
 ###Project Technologies/Techniques
 * Database (MySQL and Hibernate)
