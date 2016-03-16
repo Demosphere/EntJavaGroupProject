@@ -1,6 +1,6 @@
 # EntJavaGroupProject
 
-# Felicia's Individual Project
+# Brendan, Mike, and Felicia's Group Project
 
 ###Problem Statement
 
